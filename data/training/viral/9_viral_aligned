@@ -1,0 +1,366 @@
+>YP_009304041.1 major tail protein [Brucella phage BiPBO1]
+--------------------------------------------------MVKPTTAAFP
+DFILEVETDTAGT-------FT--KICG--------------ITQRGINRQHNMQTTEVP
+QDCDDESLPSAVER--AIQSSEV-TISGSG----VWASQSH----------EMMLDWWYN
+GQVKNI---RIKHVKAAVGDTEYETGPAILVNLN--N-AVEKGQKVNAEIEIQFDGV--P
+E---------RTAKASS--------------------------
+>YP_002117573.1 p014 [Rhizobium phage 16-3]
+----------------------------------------------MARATTANFHQMVL
+EVEVTAGSGV----------YS--KLCG--------------LTSRG-INRQSNMSTSEV
+PDCADESLPAAVER--AVQSQEV-TISGSG----VWAAESH----------EVMLNWWYS
+GATKSI---RVQHVNAAVGDTEYETGNAYLVSIS--N-QAERGTKVTAEISIEFDGI--P
+T---------RTAKV----------------------------
+>YP_008058938.1 hypothetical protein phiCP51_0015 [Clostridium phage vB_CpeS-CP51]
+--------------------------------------------------MAFTGVFPVY
+NLKFKIGTKG-KA-------SQSQDMQT--------------IADMENFGIKIDGKVEDW
+TPMDTAG---WARS--LMTGKSF-SISLKG----KRHVGDVGNDY-------VAATAWKD
+GLDCST-KGEIEFPDGSK-----LTFNCVIDVKN--VGGDDSTKVAPLEFDLKGDGK--P
+E---------YTAAPSSLGH-----------------------
+>NP_463473.1 major tail shaft protein [Listeria phage A118]
+-----------------------------------------------MRIKNAKTKYSVA
+EIVAGAGEPD----------WK--RLSK-------------WITNVS-DDGSDNTEE--Q
+GDYDGDGN--EKTV--VLGYSE--AYTFEG----THDREDEAQNL------IVAKRRTPE
+NRSIMF---KIEIPDTET-----AIGKATVSEIKGSAGGGDATEFPAFGCRIAYDET--P
+T---------VTKP-----------------------------
+>YP_009210460.1 putative tail shaft protein Tsh [Listeria phage vB_LmoS_293]
+----------------------------------------------MARIKNAKTKYFVA
+EIVDGAGEPV----------WK--RLSK-------------WITNVS-DDGSDNTEE--Q
+GDYDGDGN--EKTV--VLGYSE--AYTFEG----THDREDEAQNL------IVAKRRTPE
+NRGIMF---KIEIPDTET-----AIGKATVSEIKGSAGGGDATEFPAFGCRIAYDET--P
+T---------VTKP-----------------------------
+>YP_001468398.1 Tsh [Listeria phage A500]
+----------------------------------------------MARIKNAKTKYFVA
+EIVDGVGEPV----------WK--RLSK-------------WITNVS-DDGSDNTEE--Q
+GDYDGDGN--EKTV--VLGYSE--AYTFEG----THDREDEAQNL------IVAKRRTPE
+NRGIMF---KIEIPDTET-----AVGKATVSEIKGSAGGGDATEFPAFACRIAYDET--P
+K---------VTKP-----------------------------
+>YP_009044682.1 major tail shaft protein [Listeria phage LP-030-3]
+----------------------------------------------MARIKNAKTKYFVA
+EIVDGAGEPV----------WK--RLSK-------------WITNVS-DDGSDNTEE--Q
+GDYDGDGN--EKTV--VLGYSE--AYTFEG----THDREDEAQNL------IVAKRRTPE
+NRGIMF---KIEIPDTET-----AIGKATVSEIKGSAGGGDATEFPAFACRIAYDET--P
+K---------VTKP-----------------------------
+>NP_695161.1 minor capsid protein [Lactobacillus phage phig1e]
+----------------------------------------------------MAKFKMNY
+KNVFEIDTTG-SQDPQDTTKATFVPLAA----------------GISGVTPAANETDDNT
+AYYDGAGF--TDTD--VTGKRITLAFSGHR----VIGDAAQDYV-------ASKFLAIGE
+SLKTLA---RWTDPDGNK-----IVSNVTITAIV--PMGGNANAKQTFSFTLSFNGK--P
+I---------MTDKTGKTVEFDEDETTSPSGTITQGSGTGTQS
+>YP_009286355.1 tail shaft protein [Lactococcus phage 98201]
+------------------------------------------MTYTGFALNYLNKYEIGE
+AGTVAPGTGK-VTPPSKL--YE--LAEG--------------IQSVD-LKNDEDSSD--Y
+SYYADKGG--KQTN--ISSVSTSYAFKGHR----RYADSDAQSFI------RERLAKTGQ
+DRVVYF---KHTEPDGRI-----LSGNATLSGIV--HGGGDAGERGNFEATITFNGL--P
+D---------DSKSLGV--------------------------
+>YP_009279511.1 major tail shaft protein [Lactococcus phage 28201]
+------------------------------------------MTYTGFALNYLNKYEIGE
+AGTVAPGTGK-VTPPSKL--YE--LAEG--------------IQSVD-LKNDEDSSD--Y
+SYYADKGG--KQTN--ISSVSTSYAFKGHR----RYADSDAQSFI------RERLAKTGQ
+DRVVYF---KHTEPDGRI-----LSGNATLSGIV--HGGGDAGERGNFEATITFNGL--P
+D---------DSKSLGV--------------------------
+>YP_006383467.1 major capsid protein gpP [Bacillus phage PBC1]
+------------------------------------------------MALTGFLMNYGY
+KFAVKQGTGA-D--------LP--IAKG--------------ITGVD-PDNNEETED--T
+FYYDGNGS--AETD--VTGYKLSYAFEGHR----NYGDPAQDLI-------MGLAIKTGP
+ERKVTF---TVTEPNGDK-----YTGPATVYDIK--LPGGDANSKGEIEFTIAFDGK--P
+T---------FTKAPVTP-------------------------
+>YP_009219591.1 major capsid protein [Bacillus virus 250]
+-------------------------------------------------------MNHGY
+KFELNVSETS-TA-------KYAVIAKG--------------ITSVD-PDNNEESDE--T
+YYYDGGGA--AERD--ITGFMMSYGFEGHR----YYGDEAQDFIF------KRINQV-GV
+ARKSDF---RVTEPNGDK-----WEGRCTISEIK--APGGDANAKGEIEFTISFDGV--P
+K---------FTKATPTL-------------------------
+>YP_002154384.1 capsid protein [Bacillus virus IEBH]
+-------------------------------------------------------MNHGY
+KFELNVSETS-TA-------KYAVIAKG--------------ITSVD-PDNNEESDE--T
+YYYDGGGA--AERD--ITGFMMSYGFEGHR----YYGDEAQDFIF------KRINQV-GS
+ARKSDF---RVTEPNGDK-----WEGRCTISEIK--APGGDANAKGEIEFTISFDGV--P
+K---------FTKATPTL-------------------------
+>YP_009203379.1 major tail protein [Mannheimia phage vB_MhS_535AP2]
+-------------------------------------------MGSPSPQNNAENLVVGR
+AVVLEYGTTD-AKPQESE--WK--VAGA--------------MTTKS-WDFSPNSVT--S
+EADDAGG---FPET--LITNSDF-SISGDG----EWRKRPKSKELGIKDLVVLYANAVKN
+RTQPYI-WVRLKYA-GLT-----ILGKMVITALS--S-EAPTNDLVKFSIEFKVGDS--S
+T---------IEIAAA---------------------------
+>YP_009193564.1 major tail protein [Mannheimia phage vB_MhS_587AP2]
+-------------------------------------------MGSPSPQNNAENLVVGR
+AVVLEYGTTD-AKPQESE--WK---VAG--------------AMTTKSWDFSPNSVT--S
+EADDAGG---FPET--LITNSDF-SISGDG----EWRKRPKSKELGIKDLVVLYANAVKN
+RTQPYI-WVRLKYAGLT------ILGKMVITALS--S-EAPTNDLVKFSIEFKVGDSSTI
+E---------IAAA-----------------------------
+>YP_007237613.1 major tail subunit [Cronobacter phage ENT47670]
+----------------------------------------------MANCPTSNERLFGG
+AIVLEVADGC-PDTVPLESEWK--ALAA--------------GTSKG-FDFSPNTVT--S
+DADDGGG---FVES--ITTNSDF-TISFEG----EVRKNDKLDQYGIGRFIKYFATELKA
+KRQPGI-WVRMEYGPVT------FKGYMVITALS--S-DGGTNDIVTFSTEFKVGDSSTV
+Q---------VTDTSEPSS------------------------
+>YP_006560251.1 phage major tail protein [Marinomonas phage P12026]
+-----------------------------------------------------MAEMLGR
+EVTISIG-------------GT--VVAE--------------ARTKT-LTINSTAVD--I
+STDGDAG---IQRILAKPGKKAV-DLSVEG----LTISD------------KLLTASLSD
+NLIDEV---ILNYGTFT------LTGNFFQSSYS--E-GMPHEDAKTFSASYMSSGV--L
+A---------KAATP----------------------------
+>YP_007518397.1 gene transfer aget (GTA) orfg9-like phage major tail protein [Rhodobacter phage RcapNL]
+----------------------------------------------------MMAKQKGR
+LLLIKIGDGA-GTEA-----FT--TLCG--------------LKSKT-LTINNSNVDVTT
+ADCTDPGGALWKEV--QSAVKQV-AASGNG----YFKDEASEL--------RMNTVAMSA
+DPIANF---QIIVPAFGT-----FAGAFFISSLE--Y-GGEQEDGVTYSLSLESTGA--V
+T---------FTATA----------------------------
+>YP_009226048.1 hypothetical protein [Pseudoalteromonas phage Pq0]
+--------------------------------------------------MSAGISIKGR
+QVLMTIG-------------GQ--NILG--------------LQSKG-LTVNNTFIE--T
+TDDNANG---WTEFDAIPGVKSV-ELPFSG----IVKNL------------EMLRAIMTA
+GSNIFA--ISLTYPDGST-----VTGDFAMNSYT--E-TGESNEGYTFEAALASSGE--V
+T---------FTAGV----------------------------
+>YP_009100926.1 putative major tail protein [Idiomarinaceae phage 1N2-2]
+---------------------------------------------------MAGQGILGR
+QVVYTIG-------------GQ--SILG--------------INTKG-LTVNGEPVD--V
+TDDNSDG---WQELLATPGVRNA-EITASL----VVKNL------------EMLRAIMTN
+SSQMYA--FTGTYPDGSS-----VAGNAFFANYS--E-TGETAEAYTADVTFQLSGA--P
+T---------FTAGSGGQGS-----------------------
+>YP_007238126.1 phage major tail subunit [Cronobacter phage ENT39118]
+---------------------------------------------------MTSKYEVTK
+GMTFAVSAAPVTADE-----FNSSTFPG---AGVTWLEAACATKEISFTGGQKGDID--V
+TTLCSTE----QEQ--TNGLAAPAEMSITR----NWVGDEAAQ--------EALQTAYEN
+DELRAL---RVVFPSGNG-----YYALVEVRQSS--W-SAATSSVVGATYSLRVRGK--T
+K---------RIYAAGS--------------------------
+>YP_007151745.1 major tail subunit [Enterobacteria phage HK542]
+---------------------------------------------------MTSKYEVTK
+GMTFAVSDAP-VT-------AEDFNALGFPGDGVTWLEAACATKEITFTGGQKGDID--V
+TTLCSTE----QEQ--TNGLAAPAEMSITR----NWVGDEAAQ--------GALQTAYEN
+DELRAL---RVVFPSGNG-----FYVLVEVRQSS--W-SAATSSVVGATYSLRVRGK--P
+K---------RIHASGS--------------------------
+>YP_007112427.1 major tail subunit [Enterobacterial phage mEp390]
+---------------------------------------------------MTSKYEVTK
+GMTFAVSDAP-VTADDFNSQTF--PGAG-----ITWLEAACATKEITFTGGQKGDID--V
+TTLCSTE----QEQ--TNGLAAPAEMSITR----NWVGDEAAQ--------EALQTAYEN
+DELRAL---RVVFPSGNG-----FYVLVEVRQSS--W-SAATSSVVGATYSLRVRGK--P
+K---------RIYASGS--------------------------
+>YP_001111091.1 gp12 [Burkholderia virus phi6442]
+MSTSCRTTIRRTQDFSASAWNCRSSFDLHHDDSFGPPRAGLFICEGLMAERSKRIRSQGT
+KVEVSKVPSY-DLDANDITFVD--LNTT--------------TKQIQWQGGQSEEID--A
+TTFASEQ----KES--ELGLGDPGEFSVQG----NYSSDDEGQ--------LILRAAHST
+KAKHVL---RVTFSDKSQ-----FLMIGMVRQYS--W-SGGVNAIISSSYSIRLSGA--P
+K---------IVPPPAA--------------------------
+>NP_945041.1 gp11 [Burkholderia virus phi1026b]
+----------------------------------------------MAAEKSKRTKAQGT
+KVEVSKVAST-DLDAADLAFVD--LSAT--------------GKQIQWQGGQSEEID--A
+TTFASDE----KES--ELGLPDPGEFSVDG----NYQSNDEGQ--------NILRAARAT
+GEKYVF---RVTFADKSQ-----FLFVGMVRQYT--W-AASVNGLISATYSVRVSGA--P
+K---------LVPPPAA--------------------------
+>NP_536368.1 putative major tail subunit protein [Burkholderia virus phiE125]
+----------------------------------------------MAAERSKRTKAQGT
+KVEVSKMAST-DLDAADLVFVD--LSAT--------------GKQIQWQGGQSEEID--A
+TTFASDE----KES--ELGLPDPGEFSVDG----NYQSNDEGQ--------NILRAARAT
+GEKYVF---RVTFADKSQ-----FLFVGMVRQYT--W-AASVNGLISATYSVRVSGA--P
+K---------LVPPPAA--------------------------
+>YP_003090186.1 major tail subunit gp10 [Burkholderia phage KS9]
+-----------------------------------------------MAEKSKRIKAQGT
+KVEISKTVSA-DLDDNTLVFVD--LGTT--------------TKTINWQGGQSAEID--A
+TTLESEE----KES--ELGLADPGEFSVDG----NYSSDDAGQ--------LILRRARGT
+GDKYVF---RVTFRDKSQ-----FLFIGMVRQYT--W-SAGVDGIVTSTYSVRVSGS--P
+K---------EVPPPAVPAG-----------------------
+>YP_355406.1 gp70 [Burkholderia phage Bcep176]
+-----------------------------------------------MAEKSKRTKAQGT
+KVEVSKTVST-DLDDNTLVFVD--LNTT--------------GKTIQWQGGQSSEID--A
+TTLASEE----KEY--ELGLPDPGEFSVDG----NYSSDDEGQ--------SLLRTARAS
+GEKHVF---RVTFADQSQ-----FLFVGMVRQYT--W-SAAVDGIVTSTYSVRVSGA--P
+K---------LVPPPAPPAG-----------------------
+>YP_009042728.1 phage tail protein [Streptococcus phage K13]
+--------------------------------------------------------MLAN
+GIKLAFSETK-GN-------YQ--NLVG--------------LKEVPEFGIEPEKVE--N
+TTLADTV----KKY--EFGIGDAGELEYKF----AYNNSSATAPY------RVLRKAADG
+KKKLYF---EQTYPDGTK-----VTFEGQVSVKL--G-GGGVNAVIEFTLKIALQSN--L
+T---------FTDGVGG--------------------------
+>YP_009043183.1 phage tail protein [Streptococcus phage DCC1738]
+--------------------------------------------------------MLAN
+GITLSYSKTK-GS-------YT--KLVG--------------LKEVPEFGIELEKVE--N
+TTLEDTV----KKY--ELGIGDVGELEYKF----SYNNSSATAPY------RVLRKAADD
+KEKLYF---EQAYPDGTK-----VTFEGQVSVKL--G-GGGVNAVIDFTLKIALQSE--L
+E---------FADGVGG--------------------------
+>YP_009320685.1 hypothetical protein phiARI0131-1_14 [Streptococcus phage phiARI0131-1]
+--------------------------------------------------------MLAN
+GITLSYGEAK-GT-------YT--KLVG--------------LKEVPEFGIELEKVE--N
+TTLEDTV----KKY--EFGIGDIGELEYKF----SYNNSSATAPY------RVLRKAADD
+KKKLYF---EQAYPDGTK-----VNFEGQVSVKL--G-GGGVNAVIEFILKIALQSE--L
+E---------FTDGVGG--------------------------
+>YP_009043950.1 Putative major phage tail protein [Streptococcus phage IC1]
+--------------------------------------------------------MLAN
+GITLSYGEAK-GT-------YT--KLVG--------------LKEVPEFGIELEKVE--N
+TTLEDTV----KKY--EFGIGDIGELEYKF----SYNNSSATAPY------RVLRKAADD
+KKKLYF---EQAYPDGTK-----VNFEGQVSVKL--G-GGGVNAVIEFTLKIALQSE--L
+E---------FTDGLGG--------------------------
+>YP_009323481.1 tail_3 domain protein [Streptococcus phage phiARI0468-1]
+--------------------------------------------------------MLAN
+GITLSYGESK-ET-------YT--KLVG--------------LKEVPEFGIELEKVE--N
+TTLEDKV----KKY--EFGIGDVGELEYKF----SYNNSSATAPY------RVLRKAADD
+KKKLYF---EQTYPDGTK-----VKFEGQVSVKL--G-GGGVNAVIEFTLKIALQSE--L
+E---------FTDGVGG--------------------------
+>YP_009322673.1 tail_3 domain protein [Streptococcus phage phiARI0468-2]
+--------------------------------------------------------MLAN
+GITLSYGESK-ET-------YT--KLVG--------------LKEVPEFGIELEKVE--N
+TTLEDKV----KKY--EFGIGDVGELEYKF----SYNNSSATAPY------RVLRKAADD
+KKKLYF---EQTYPDGTK-----VKFEGQVSVKL--G-GGGVNAVIEFTLKIALQSE--L
+E---------FTDGVGG--------------------------
+>YP_009321963.1 tail_3 domain protein [Streptococcus phage phiARI0460-1]
+--------------------------------------------------------MLAN
+GITLSYGESK-ET-------YT--KLVG--------------LKEVPEFGIELEKVE--N
+TTLEDKV----KKY--EFGIGDVGELEYKF----SYNNSSATAPY------RVLRKAADD
+KKKLYF---EQTYPDGTK-----VKFEGQVSVKL--G-GGGVNAVIEFTLKIALQSE--L
+E---------FTDGVGG--------------------------
+>YP_009321781.1 tail_3 domain protein [Streptococcus phage phiARI0031]
+--------------------------------------------------------MLAN
+GITLSYGESK-ET-------YT--KLVG--------------LKEVPEFGIELEKVE--N
+TTLEDKV----KKY--EFGIGDVGELEYKF----SYNNSSATAPY------RVLRKAADD
+KKKLYF---EQTYPDGTK-----VKFEGQVSVKL--G-GGGVNAVIEFTLKIALQSE--L
+E---------FTDGVGG--------------------------
+>YP_009321507.1 tail_3 domain protein [Streptococcus phage phiARI0746]
+--------------------------------------------------------MLAN
+GITLSYGESK-ET-------YT--KLVG--------------LKEVPEFGIELEKVE--N
+TTLEDKV----KKY--EFGIGDVGELEYKF----SYNNSSATAPY------RVLRKAADD
+KKKLYF---EQTYPDGTK-----VKFEGQVSVKL--G-GGGVNAVIEFTLKIALQSE--L
+E---------FTDGVGG--------------------------
+>YP_009322339.1 tail_3 domain protein [Streptococcus phage phiARI0004]
+--------------------------------------------------------MLAN
+GITLSYGESK-ET-------YT--KLVG--------------LKEVPEFGIELEKVE--N
+TTLEDKV----KKY--EFGIGDVGELEYKF----SYNNSSATAPY------RVLRKAADD
+KKKLYF---EQTYPDGTK-----VKFEGQVSVKL--G-GGGVNAVIEFTLKIALQSE--L
+E---------FTDGIGG--------------------------
+>YP_009324893.1 tail_3 domain protein [Streptococcus phage phiARI0462]
+--------------------------------------------------------MLAN
+GITLSYGETK-DS-------YT--KLVG--------------LKEVPEFGIELEKVE--N
+TTLEDKV----KKY--EFGIGDVGELEYKF----SYNNSSATAPY------RVLRKAADD
+KKKLYF---EQTYPDGTK-----VKFEGQVSVKL--G-GGGVNAVIEFTLKIALQSE--L
+E---------FTDGLGG--------------------------
+>YP_009279631.1 major tail protein [Lactococcus phage PLgT-1]
+--------------------------------------------------MATFAGLLSK
+GAVLSYKDSS-T--------TK--TIAA--------------VKSIPAMGSDPEKVD--V
+THLGSAK----KAY--IAGIQDSDNLEFAI----IYQGDNF----------KDVDTLVKS
+GKSVDW---TVTYPDGMK-----VDFTGQPSYKF--D-GVEVNQALGFNLVVVVSAG--P
+D---------FTPAPAGSSH-----------------------
+>YP_009006578.1 putative major tail protein [Oenococcus phage phiS11]
+--------------------------------------MKKINLQRFAGTVDSSAGLIAT
+GTKLEYSSNG-TA-------FS--EVAD--------------VQTVPDIGQAPETVD--V
+TSLTDTK----RKS--VSGLANAANLAFQV----VYKGDNF----------KDLIAKDGD
+GVQYHW---RVTYPDGMT-----ATFTGSFSLQM--G-NVAVNGALNFTITVVVSDG--P
+N---------FAAATASTGE-----------------------
+>YP_009005245.1 putative major tail protein [Oenococcus phage phiS13]
+--------------------------------------MKKINLQRFAGTVDSSAGLIAT
+GTKLEYSSNG-TA-------FS--EVAD--------------VQTVPDIGQAPETVD--V
+TSLTDTK----RKS--VSGLANAANLAFQV----VYKGDNF----------KDLIAKDGD
+GVQYHW---RVTYPDGMT-----ATFTGSFSLQM--G-NVAVNGALNFTITVVVSDG--P
+N---------FAAATASTGE-----------------------
+>YP_009005189.1 putative major tail protein [Oenococcus phage phi9805]
+--------------------------------------MKKINLQRFAGTVDSSAGLIAT
+GTKLEYSSNG-TA-------FS--EVAD--------------VQTVPDIGQAPETVD--V
+TSLTDTK----RKS--VSGLANAANLAFQV----VYKGDNF----------KDLIAKDGD
+GVQYHW---RVTYPDGMT-----ATFAGSFSLQM--G-NVAVNGALNFTITVVVSDG--P
+N---------FAAATASTGE-----------------------
+>NP_958590.1 putative major tail protein [Lactobacillus prophage Lj965]
+-------------------------------MNNVKFYSDLLTLDLQRFAVDSSEGLAGT
+GTTLERSVDG-SS-------WD--EIAD--------------IKTIPELGGDTEKID--V
+TTLADDR----RKQ--IEGIQNASNVQFQA----VYKGASFA---------KALAQA-GD
+RKQYQW---KVTYPDGMT-----ATMKGSYNIKF--G-AVSVNGALGYTITITVSDG--P
+T---------FAAAGAAH-------------------------
+>YP_008242003.1 phage tail protein [Cellulophaga phage phi10:1]
+--------------------------------------------------MAGETKIKGN
+DFLFLVWDAD-ADTPF----YR--PLAC--------------LTSNS-WSSDAETID--T
+ETKCNPG---VVEK--EYGAVSN-SFSIEG----EYIDTTSVGGYTTRASHDWLHSKQSA
+KQKVII-KIQTGLADNAA-----YYATAIVSSLE--L-TGDVNQVATFSATLDAEGV--A
+S---------IDPNA----------------------------
+>YP_112512.1 hypothetical protein PHG11b_36 [Flavobacterium phage 11b]
+----------------------------------------------------MAVKIKGE
+VGILYIYDSA-A--------YR--PVAC--------------LTSNS-LATTVSVIE--S
+QTKCNPG---TIEK--QGGTFTY-MIDAEG----EYIDTTSVGGDLA----KASHDFLFQ
+KQQLKT---LVTWKLVTGVTGQIYYGSALISELN--LDQGSGDDLSTFTLTLDGSGL--I
+V---------LVDPTA---------------------------
+>YP_008242007.1 phage tail protein [Cellulophaga phage phi10:1]
+--------------------------------------------------MAQSKYTKGE
+ERILFIKVED-D--------YI--PVGC--------------LTSNP-LSEETDMLP--T
+TTRQNSG---WETS--RPSVQRF-NLEFEGLQVLTFGDDGDSSKLSY----DRLKLIKRN
+REKIEW---KIEDTDLKFI----DIGYGYITSIS--E-SNAVGEILSFSGSITGFGM--P
+TAASTPYLYLFEDGQPFIFQDTQSYSFNNDI------------
+>YP_112520.1 hypothetical protein PHG11b_44 [Flavobacterium phage 11b]
+-----------------------------------------------------MNFTLGE
+DRLLYIKVNG-D--------YL--PIGC--------------LTANS-LEESSEFID--T
+TTRDNAG---WSTS--RPVLQNY-NISFSG----LQVNTTLGGGDFTIASYDKLRDFKRN
+KILLDWKLQGILYPVVDF-------GKFYIQSLS--D-TENIGEFLAFSGTAVGFGP--P
+----------LSQSLGETLLNDGNPTVLVNNGNPDVLLRIGDI
+>YP_009010482.1 hypothetical protein GBK2_11 [Geobacillus phage GBK2]
+--------------------------------------------------------MRGI
+DILIQVEDKD-NP-------GTFVTVAG--------------QRNAT-FSEEAETID--V
+THKLSPGG--YQEN--DYGLGSW-EISCDG----VYVLGNAQF--------KALRDAQRN
+KELVKC---RWVEVGSTEV----EEGFAVITSRE--I-EGPYDDTATYSITLTGTGK--P
+E---------VVTTP----------------------------
+>YP_009191718.1 major tail protein [Streptococcus phage T12]
+----------------------------------------MTKMFIVILTHQQQKAIAGK
+DIILAIFDKT-G--------ANLLAISG--------------QQGLT-INRTADSIE--V
+SSKDTKGG--WKSK--IPGMKEW-SIDNDG----LYVPSDETH--------KQLGEAFEK
+SEFVCI---KVINGKTKKGM---FGGLASVSDYS--L-EAPYDDGMTYSISLEGNGA--L
+I---------DLSTLSSEDAEKVTAMPS---------------
+>YP_009224877.1 major tail protein [Paenibacillus phage Rani]
+----------------------------------------------------MATKLAGM
+KCKLFVGSAK-EK-------GK--ILAG--------------QRSAT-ISRSAETID--A
+TSKDTEGY--WKES--LQGFKEW-SIDADG----VFVESDQAY--------KELEDAWLN
+SENVKI---YIELPSGRR-----YAGEATITDAS--L-EMPYDDLVTYSLSFQGSGA--L
+Q---------MIETIPGKGETKE--------------------
+>YP_009203456.1 major tail protein [Paenibacillus phage Sitara]
+----------------------------------------------------MATKLAGM
+KCKLFVGSAK-EK-------GK--ILAG--------------QRSAT-ISRSAETID--A
+TSKDTEGY--WKES--LQGFKEW-SIDADG----VFVESDQAY--------KELEDAWLN
+SENVKI---YIELPSGRR-----YAGEATITDAS--L-EMPYDDLVTYSLSFQGSGA--L
+Q---------MIETIPGKGETKE--------------------
+>YP_009203213.1 major tail protein [Paenibacillus phage Fern]
+----------------------------------------------------MATKLAGM
+KCKLFVGSAK-EK-------GK--ILAG--------------QRSAT-ISRSAETID--A
+TSKDTEGY--WKES--LQGFKEW-SIDADG----VFVESDQAY--------KELEDAWLN
+SENVKI---YIELPSGRR-----YAGEATITDAS--L-EMPYDDLVTYSLSFQGSGA--L
+Q---------MIETIPGKGETKE--------------------
+>YP_009201921.1 major tail protein [Paenibacillus phage Xenia]
+----------------------------------------------------MATKLAGM
+KCKLFVGSAK-EK-------GK--ILAG--------------QRSAT-ISRSAETID--A
+TSKDTEGY--WKES--LQGFKEW-SIDADG----VFVESDQAY--------KELEDAWLN
+SENVKI---YIELPSGRR-----YAGEATITDAS--L-EMPYDDLVTYSLSFQGSGA--L
+Q---------MIETIPGKGETKE--------------------
+>YP_009197956.1 major tail protein [Paenibacillus phage Diva]
+----------------------------------------------------MATKLAGM
+KCKLFVGSAK-EK-------GK--ILAG--------------QRSAT-ISRSAETID--A
+TSKDTEGY--WKES--LQGFKEW-SIDADG----VFVESDQAY--------KELEDAWLN
+SENVKI---YIELPSGRR-----YAGEATITDAS--L-EMPYDDLVTYSLSFQGSGA--L
+Q---------MIETIPGKGETKE--------------------
+>YP_009195201.1 major tail protein [Paenibacillus phage HB10c2]
+----------------------------------------------------MATKLAGM
+KCKLFVGSAK-EK-------GK--ILAG--------------QRSAT-ISRSAETID--A
+TSKDTEGY--WKES--LQGFKEW-SIDADG----VFVESDQAY--------KELEDAWLN
+SENVKI---YIELPSGRR-----YAGEATITDAS--L-EMPYDDLVTYSLSFQGSGA--L
+Q---------MIETIPGKGETKE--------------------
+>YP_008320347.1 major tail protein [Paenibacillus phage phiIBB_Pl23]
+----------------------------------------------------MATKLAGM
+KCKLFVGSAK-EK-------GK--ILAG--------------QRSAT-ISRSAETID--A
+TSKDTEGY--WKES--LQGFKEW-SIDADG----VFVESDQAY--------KELEDAWLN
+SENVKI---YIELPSGRR-----YAGEATITDAS--L-EMPYDDLVTYSLSFQGSGA--L
+Q---------MIETIPGKGETKE--------------------
+>YP_007237251.1 putative phage major tail protein [Clostridium phage phi8074-B1]
+---------------------------------------------------MAQKYIRGL
+EIIIQSETAE-GE-------FK--DLAG--------------QRGCT-LNRSGEVID--V
+SNKITSG---WKES--LTGLKEW-SIDADG----IMVEGDEAL--------DTLEQAFLD
+SKPVHI---KMGRRDKSWG----YEGEAIITDFP--I-EAPYDDAVTYSMTLQGASG--L
+E---------KFEKVGETELGK---------------------
+>YP_003714741.1 gp14 [Streptomyces phage phiSASD1]
+-----------------------------------------------------MAGLDAF
+GIALKRSDMA-TPTAS----FT--TIGN--------------VTSVSGPEIERETYD--V
+TAHDSLDG--WREF--IGGLKDGGEVSLEV----NYDPRKH----------DVYVADFAD
+VTPRDY---KLTFPGTLGE----WALKLILTGFS--Q-EAPVDDKLAAELKFKVSGK--P
+V---------ITFGA----------------------------
+>YP_007673293.1 hypothetical protein TVGG_00037 [Tetraselmis viridis virus S20]
+-------------------------------------------------MMAENDVATGL
+GTKLQKGDGN-SP-------ENFISVLG--------------IKSVSGPDISRDIHD--T
+TDMDAVQ---YRTF--IGGLVDAGEISFEA----NFLPRDATQNQSSGGFMAEFDQGSCD
+SRGNW----RILLPDCEGQPEAYWEFSGVVSGQS--I-ELPMDDIMTFQGTIKVSGR--P
+E---------LVIGTV---------------------------
+>YP_008129875.1 hypothetical protein PANG_00009 [Paenibacillus phage PG1]
+---------------------------------------------------MIILANRAV
+GTKLMFGTTP---------------VAE--------------LTSIGGLELSADTID--T
+TSLDSDGG--YRTF--IGGFKDGGEVSISG----FFNPGDAGQ--------AAVYAAFNS
+GATTAC---EIQFPPALKAN---WSFDAVVTAFS--T-GAELEEAISFEATLKVSGE--P
+T---------LEITP----------------------------
