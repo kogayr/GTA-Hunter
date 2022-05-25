@@ -1,0 +1,2 @@
+We correctly classified (on average) 62.00/62 GTA and 465.00/465 Viral genes.
+time to run: 61.76529502868652

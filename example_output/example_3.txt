@@ -1,0 +1,38 @@
+Gene                                                                                           Score          Classification    GTA Gene
+>WP_137457497.1 hypothetical protein [Rhodobacter sphaeroides]                                  -0.797741      GTA              15
+>WP_137457888.1 host specificity protein [Rhodobacter sphaeroides]                              -1.700612      GTA              15
+Gene                                                                                           Score          Classification    GTA Gene
+>WP_137457108.1 phage portal protein [Rhodobacter sphaeroides]                                  0.766007       virus             3
+>WP_137457895.1 phage portal protein [Rhodobacter sphaeroides]                                  -0.980008      GTA               3
+>WP_137459338.1 phage portal protein [Rhodobacter sphaeroides]                                  0.740713       virus             3
+Gene                                                                                           Score          Classification    GTA Gene
+>WP_137457892.1 DUF3168 domain-containing protein [Rhodobacter sphaeroides]                     -1.814797      GTA               8
+>WP_137458772.1 DUF3168 domain-containing protein [Rhodobacter sphaeroides]                     0.071541       virus             8
+>WP_137459210.1 DUF3168 domain-containing protein [Rhodobacter sphaeroides]                     0.243832       virus             8
+Gene                                                                                           Score          Classification    GTA Gene
+>WP_137457496.1 peptidase [Rhodobacter sphaeroides]                                             -0.412156      GTA              14
+>WP_137457889.1 peptidase [Rhodobacter sphaeroides]                                             -1.302067      GTA              14
+Gene                                                                                           Score          Classification    GTA Gene
+>WP_009564481.1 MULTISPECIES: phage major tail protein, TP901-1 family [Rhodobacter]            -1.020971      GTA               9
+Gene                                                                                           Score          Classification    GTA Gene
+>WP_101328016.1 MULTISPECIES: phage major capsid protein [Rhodobacter]                          -0.948470      GTA               5
+>WP_137457105.1 phage major capsid protein [Rhodobacter sphaeroides]                            0.511603       virus             5
+>WP_137459300.1 phage major capsid protein [Rhodobacter sphaeroides]                            0.706092       virus             5
+Gene                                                                                           Score          Classification    GTA Gene
+>WP_115474016.1 HK97 family phage prohead protease [Rhodobacter sphaeroides]                    -1.040761      GTA               4
+>WP_137458228.1 HK97 family phage prohead protease [Rhodobacter sphaeroides]                    -0.244565      GTA               4
+>WP_137458765.1 HK97 family phage prohead protease [Rhodobacter sphaeroides]                    -0.759410      GTA               4
+>WP_137459215.1 HK97 family phage prohead protease [Rhodobacter sphaeroides]                    0.017206       virus             4
+Gene                                                                                           Score          Classification    GTA Gene
+>WP_137457103.1 hypothetical protein [Rhodobacter sphaeroides]                                  0.037486       virus             6
+>WP_137457893.1 hypothetical protein [Rhodobacter sphaeroides]                                  -0.952592      GTA               6
+>WP_137458770.1 phage gp6-like head-tail connector protein [Rhodobacter sphaeroides]            0.344344       virus             6
+>WP_137459212.1 phage gp6-like head-tail connector protein [Rhodobacter sphaeroides]            0.085210       virus             6
+Gene                                                                                           Score          Classification    GTA Gene
+>WP_137457495.1 DUF2163 domain-containing protein [Rhodobacter sphaeroides]                     -1.427688      GTA              13
+>WP_137457890.1 DUF2163 domain-containing protein [Rhodobacter sphaeroides]                     -1.316051      GTA              13
+Gene                                                                                           Score          Classification    GTA Gene
+>WP_115474024.1 TIGR02217 family protein [Rhodobacter sphaeroides]                              -1.328590      GTA              12
+>WP_137457494.1 TIGR02217 family protein [Rhodobacter sphaeroides]                              -0.455782      GTA              12
+Gene                                                                                           Score          Classification    GTA Gene
+>WP_137457896.1 ATP-binding protein [Rhodobacter sphaeroides]                                   -1.470279      GTA               2

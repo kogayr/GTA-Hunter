@@ -1,0 +1,7 @@
+Gene                                                                                           Score          Classification    GTA Gene
+>WP_100283140.1 phage portal protein [Sphingomonas sp. Cra20]                                   -0.824313      GTA               3
+>WP_100367008.1 phage portal protein [Yoonia maricola]                                          -0.947548      GTA               3
+>WP_102855116.1 phage portal protein [Phaeobacter inhibens]                                     0.873095       virus             3
+>WP_121219731.1 phage portal protein [Oceanibaculum indicum]                                    0.965013       virus             3
+>WP_128262196.1 phage portal protein [Bradyrhizobium yuanmingense]                              0.702121       virus             3
+time to run: 10.004424810409546
