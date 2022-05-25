@@ -1,0 +1,402 @@
+>YP_005794498.1 phage cell wall peptidase, NlpC/P60 family protein [Ketogulonicigenium vulgare WSH-001]
+----------------------------------------------------------MT
+PDTLARAWIGTPFVHGASLQGVGADCLGLITGLWRQIYGPAP-WPLDYSPDWSVT--L-G
+P----DAMARAADRYLPRA------AQLYPGALMLLRLRPHLPPAHLAICAGP-------
+--------------------------------TFIHAFHAGG-VVESPLSLPWRRRIAGL
+YHFAPKQES---------------------
+>WP_013383959.1 peptidase P60 [Ketogulonicigenium vulgare]
+----------------------------------------------------------MT
+PDTLARAWIGTPFVHGASLQGVGADCLGLITGLWRQIYGPAP-WPLDYSPDWSVT--L-G
+P----DAMARAADRYLPRA------AQLYPGALMLLRLRPHLPPAHLAICAGP-------
+--------------------------------TFIHAFHAGG-VVESPLSLPWRRRIAGL
+YHFAPKQES---------------------
+>WP_014129959.1 MULTISPECIES: NLP/P60 family protein [Pelagibacterium]
+--------------------------------------------------MRPG----DE
+IALMARGWVGTPYRHQASRRGAGADCLGLIRGIWRELYGEEAGPVPAYGSDWRDF--R-V
+G----DALEAAARRHLVVR--G---GAPEAGDVVLFKLMRHRPARHCGVMVGP-------
+-------------------------------DRFVHAQEHVG-VVEVALSESWARRVAGV
+FGFP--------------------------
+>WP_011642872.1 NlpC/P60 family phage cell wall peptidase [Maricaulis maris]
+------------------------------------MRRGKRATAHVTARVQAR----VR
+ALAEARRWIGTPYGHQASCLGAGCDCLGLIRGIWRTLYGQEAQTVPPYGPDVAGT--P-L
+A----EALMAAVCAHFVEI--DK--DSPRPGDVLLFADRPGGTARHCAVLSQR-------
+-------------------------------DRIIHAYWRRS-VVETALTPWWQRRLVAA
+FAFPDLPPAEPREEMTWPNLS---------
+>WP_015494494.1 NlpC/P60 family phage cell wall peptidase [Octadecabacter arcticus]
+---------------------------------------------------MIV----TD
+IVAIARTWIGTPYVHQGARRGAGCDCLGLLRGVWAEASASPLQPVPPYTSDWSEP--Q-G
+D----EVLWQALAHQLIAK--PR--DAPQQGDVLLFRMRQGGVAKHVGLQANT-------
+----------------------------GPHATFIHAYQGHG-VRESTFSSPWKRRLVAR
+FSTPERP-----------------------
+>WP_015500370.1 putative gene transfer agent protein [Octadecabacter antarcticus]
+-----------------------------------------------------M----LD
+IVTIARTWIGTPYVHQAARRGAGCDCLGLLRGVWAEASGAPLEPVPPYTSDWSEP--Q-G
+D----EVLWQAVADRLIAK--PR--DVPQPGDVLLFRMRQGAVAKHVGLQANT-------
+----------------------------GQHATFIHAYQGHG-VRESTFSAPWKRRLVAR
+FSTPERLQDKV-------------------
+>WP_020949354.1 hypothetical protein [Paracoccus aminophilus]
+-----------------------------------------------MTPDLGR----AD
+VVAEARRWIGTPYVHQGSVCGAGADCLGLIRGIWRALHGHEPEALPAYTPDWGEL--GQG
+ELGRSELLLAGLMRHLRPA------GREALGDVLVFRMRTGAIAKHLGLLTQT-------
+----------------------------GAGARFVHAYDRHG-VVESPLSGPWRARIAAR
+FIFPPL------------------------
+>WP_011749162.1 peptidase [Paracoccus denitrificans]
+----------------------------------------------------MS----AV
+VVQAARAWIGTPYVHQGSVRGAGTDCLGLVRGIWRELCGAEPEGMPAYTPDWGEV--G-G
+A----ELLLGGAERQLLPA------PDERPGDVLVFRMRAGAIAKHMGILAET-------
+----------------------------GERASFVHAYDRHG-VVESPLSTPWRARIAGR
+FRFPAA------------------------
+>WP_011454767.1 peptidase [Jannaschia sp. CCS1]
+-----------------------------------------------------M----SA
+VVVAAQEWLGTPYVHQAACKGAGCDCLGLLLGLWREFHGDLPAPVPAYTNDWSET--S-G
+E----ERLLEAARAHLTEK--PL--GDAAPGDILIFRMRTGAVAKHVGLQTQT-------
+----------------------------QDTPRFLHAYSGRG-VTEGALTPSWARRVVAR
+FVFPERKN----------------------
+>WP_011908126.1 MULTISPECIES: peptidase [Rhodobacter]
+---------------------------------------------------MSG----AD
+VVAEARHWIGTPYVHQASTRGAGTDCLGLLRGIWRTLVGPEPVLVPPYTPDWSEP--S-G
+D----ERLMAACDRWLLRQ--PL--DAASEGDVLLFRMRPEAVAKHLGILVCS-------
+----------------------------GPEASFVHAYCGHG-VVESPLSEPWARRLAAR
+YAFPERND----------------------
+>WP_012643969.1 peptidase [Rhodobacter sphaeroides]
+---------------------------------------------------MKG----AD
+VVAEARSWLGTPYVHQASARGAGADCLGLLRGIWRSLIGPEPLKVPAYTPDWSEP--S-G
+H----EELMAACDRCLVRK--PL--EAAAEGDVLLFRMRPGAVAKHLGILVRP-------
+----------------------------SPNASFIHAYGGHG-TVESPLSEPWAERIAAR
+YAFPERTD----------------------
+>WP_011840831.1 peptidase [Rhodobacter sphaeroides]
+---------------------------------------------------MNG----AD
+VVAEARSWLGTPYVHQASARGAGADCLGLLRGIWRSLIGPEPLKVPAYTPDWSEP--S-G
+H----EELMAACDRCLVRK--PL--GAAAEGDVLLFRMRPGAVAKHLGILVRP-------
+----------------------------GPNASFIHAYGGHG-TVESPLSEPWAERIAAR
+YAFPERTD----------------------
+>WP_013961349.1 peptidase [Roseobacter litoralis]
+-------------------------------------------------MTLNR----KA
+IVLEARRWIGTPYVHQASAFHAGADCLGLLRGIWRSLYGDEPETAPAYSYDWSEP--Q-G
+E----ERLWEAAIRHLVPK--AV--TQEDVGDVLLFRMRTGAVAKHLGIAATI-------
+----------------------------GDNASFVHAYSKYG-VVESPLSAPWQRRIVAR
+FTFPEEFR----------------------
+>WP_011569149.1 peptidase [Roseobacter denitrificans]
+-------------------------------------------------MTLNT----NA
+IVHEARRWIGTPYVHQASAFHAGADCLGLLRGIWRSLYGDEPEVAPPYSYDWSEP--Q-G
+E----ERLWDAAIRHLVPK--PV--AQEDPGDVLLFRMRAGAVAKHLGIATHT-------
+----------------------------GQNASFVHAYSKFG-VVESPLSAPWRRRIVAR
+FTFPEEFK----------------------
+>WP_011538411.1 peptidase [Ruegeria sp. TM1040]
+------------------------------------------------MSRDIN----TE
+AVALARLWLGTPYRHQGATRGAGCDCLGLIRGLWRSLYGSEPEPVPPYTRDWAER--G-S
+E----ERLWRAALRHMQPA------QDPMPGQVILFRMRAGAVAKHLGLQSES-------
+-------------------------------ARFIHAYSGHG-VVESALTPAWQRRIVAR
+FAFPDPNDL---------------------
+>WP_013067421.1 peptidase [Rhodobacter capsulatus]
+-------------------------------------------------MSAVG----LR
+AVAIARDWIGTPYRHQVSVRGAGTDCLGLLRGVWRALYGAEPELVPPYTADWSEP--A-R
+E----EVLWRAAARHLVAL--PVGAGPERPGEVLLFRMRHGAVAKHLGIAAEI-------
+----------------------------GAGASFVHAYTGHG-VVESPLSEPWARRIVAR
+FQFPEGGR----------------------
+>WP_012178832.1 peptidase [Dinoroseobacter shibae]
+--------------------------------------------------MSCA----DR
+VVAEARGWVGTPYVHQASARGAGADCLGLVRGVWRGVFGDEPEAVPPYTPDWSEP--Q-R
+D----EILWRGAARHLQQK--RV--EDAAVGDVLLFRMRASGVAKHLGIQSEV-------
+----------------------------GPLPCFIHAYSGHG-VIESPLSRPWARRIAAR
+FAFPVGD-----------------------
+>WP_011047973.1 peptidase [Ruegeria pomeroyi]
+-------------------------------------------------MTGRG----GE
+VVAIARGWLGTPYRHQASTLGAGSDCLGLIRGVWRGLYGQEPEAVPAYSMDWSEP--Q-G
+E----ERLWQAARRHLIES--AQ--GPLALGEVLLFRMRGSSVAKHLGIVSEV-------
+----------------------------GVSPRFIHAYSGHG-VVESPLSAPWLRRVVSR
+FEFPQEVS----------------------
+>WP_044008373.1 peptidase [Leisingera methylohalidivorans]
+-----------------------------------------------------M----SR
+VVSAARGWIGTPYVHQAACKGAGCDCLGLIRGLWRELYGAEPEAPPAYTMDWSEP--Q-G
+A----EALWQAAARHLLAK--PL--GDAAPGDVILFRMRDGSVAKHLGVQSEVSFQSGAG
+RARPRGGGKRRPGRADGRCPAFGQVEHKGNVPSFIHAYAGRG-VVESPLSPPWQRRIVAR
+FQFPKELI----------------------
+>WP_014874859.1 peptidase [Phaeobacter inhibens]
+---------------------------------------------MSGARGILR----AQ
+LVTAARGWLGTPYVHQAARRGAGCDCLGLIRGLWREVYGQEPEAVPGYTMDWSEP--Q-G
+E----EALWQAALRHLSPR--PL--QEARAGDVLLFRMRRGAVAKHIALQSEI-------
+----------------------------EPVPRFIHAYCGHG-VVESALSQPWQRRIVAR
+FSFPDVDADEVT------------------
+>WP_024097003.1 phage cell wall peptidase NlpC/P60 family [Phaeobacter gallaeciensis]
+---------------------------------------------MSGATGVSR----TE
+LVAAARGWLGTPYVHQAATRGAGCDCLGLIRGLWREIYGQEPEAVPGYTMDWSEP--Q-G
+E----EALWQAALRHLTPR--PL--TDARVGDVILFRMRRGAVAKHIALQTET-------
+----------------------------GAMPRFIHAYSGHG-VIENALSHPWHRRIVAR
+FSFPDVDADEVT------------------
+>WP_044041499.1 peptidase [Phaeobacter inhibens]
+---------------------------------------------MSGARGILR----AQ
+LVAAARGWLGTPYVHQAARRGAGCDCLGLIRGLWREVYGQEPEAVPGYTMDWSEP--Q-G
+E----EALWQAALRHLSPR--PL--EDARAGDVILFRMRRGAVAKHIALQTET-------
+----------------------------GTMPRFIHAYSGHG-VIENALSQPWHRRIVAR
+FSFPDVDADEVT------------------
+>WP_002963749.1 MULTISPECIES: peptidase P60 [Brucella]
+--------------------------------------------------MMIA----ER
+VLAEAHRWIGTPYRHGASTLGVSCDCLGMVRGIWRALYGVEPENPGVYAPDWAEV--S-Q
+G----DPMLEAAVRREEHA--PQ------PGDLLVFRWKPGFAAKHMGIMARE-------
+-------------------------------GRFIHAYQGHG-VLASALVPQWRRRMAGI
+FLFPEPKV----------------------
+>WP_006189984.1 MULTISPECIES: peptidase P60 [Brucella]
+--------------------------------------------------MMIA----ER
+VLAEAHRWIGTPYRHGASTLGVSCDCLGLVRGIWRALYGVEPENPGVYAPDWAEV--S-Q
+G----DPMLEAVVRYMVRR-EE---HAPQPGDLLVFRWKPGFAAKHMGIMARE-------
+-------------------------------GRFIHAYQGHG-VLASALVPQWRRRMAGI
+FLFPEPKV----------------------
+>WP_004683307.1 MULTISPECIES: peptidase P60 [Brucella]
+--------------------------------------------------MMIA----ER
+VLAEAHRWIGTPYRHGASTLGVSCDCLGLVRGIWRALYGVEPENPGVYAPDWAEV--S-Q
+G----DPMLEAAVRYMVRR-EE---HAPQPGDLLVFRWKPGFAAKHMGIMARE-------
+-------------------------------GRFIHAYQGHG-VLASALVPQWRRRMAGI
+FLFPEPKV----------------------
+>WP_022555865.1 MULTISPECIES: phage cell wall peptidase NlpC/P60 family [Rhizobium/Agrobacterium group]
+-------------------------------------------------MSETG----DK
+VLALAEPWIGTPYRHQASLRGVGCDCLGLIRGVWRELYGSEPELPPPYAPDWAER--C-G
+E----DRLMAAVQRHFPSV-SGL--DEAKPGDLLLFRWRADAAAKHLGILAES-------
+-------------------------------RHFIHAYEQAA-VVRSALVPCWKRRIAGV
+FRFPDP------------------------
+>NP_353990.1 conserved hypothetical protein [Agrobacterium fabrum str. C58]
+-------------------------------------------------MSDTA----QK
+VLAMAESWIGTPYRHQASLSGVGCDCLGLIRGIWRGLYGHEPELPPPYAPDWAER--G-G
+E----DRLMAAAKRHFLTV--PGM-EEAQPGDLLLFRWRADAAAKHLGILAGP-------
+-------------------------------EHFIHAYEQAA-VVRSALVPGWKRRIAGT
+FRFPDP------------------------
+>WP_013635747.1 peptidase [Agrobacterium sp. H13-3]
+-------------------------------------------------MSSTS----EK
+VLALAQGWIGTPYRHQASLQGVGCDCLGLVRGIWRSLYGEEPELPPPYAPDWAER--G-G
+E----DRLLDAATRYFSAV--PDM-EEAMPGDLLLFRWRADAAAKHLGILAGP-------
+-------------------------------QHFIHAYEQAA-VVRSALVPGWKRRIAGV
+FRFPEP------------------------
+>WP_013653656.1 peptidase [Polymorphum gilvum]
+--------------------------------------------MFPEPAPIDR----AA
+LIAEARTWIGTPYRHQASAKGAGCDCLGLVRGLWRAFCGAEPEPLPAYGADWAET--G-G
+G----EAFAAAGRRWLVEI--DP--GRAAPGDVLLLRWKDGAPAKHAGLLATA-------
+-------------------------------STLVHAYERVG-VVESPLVPAWRRRIAHV
+FAFPGARPWQP-------------------
+>WP_015827108.1 peptidase [Hirschia baltica]
+--------------------------------------------------MANA----SL
+IVAEARKWIGTPYQHQASCLHAGCDCLGLVRGVWRALIGDEPELAPPYTPNWAED--L-Q
+E----ETLLEAARRHLIEI--PI--GGAQIGDVLAFRMGLGAPVKHLAIVSKVS------
+---------------------------QGKATNIIHAYWGRS-VVETHLGPWWSRRIAAA
+FQFPNF------------------------
+>WP_012287918.1 peptidase P60 [Caulobacter sp. K31]
+MSATFPDSKTLSSRTSAQREDPGPTPERRASGGPGSSPGFAGLVRDDSAFESVR----AA
+ALHEARLWLGTPYQHQASLRGVGCDCLGLVRGVWRALRCAEPETPPPYRPDWAEL--G-G
+R----ELLGEALGRSLIRI--DP--VAARPGDVLLFRMAPDAPAKHCAILSAS-------
+-------------------------------DRMIHAYWGRA-CVESWLGRWWRERWVAA
+FRFPEF------------------------
+>WP_013078172.1 phage cell wall peptidase, NlpC/P60 family [Caulobacter segnis]
+------------------------MRGSCRGATEGASAADAQLAPSGPLGHLPRSAGEDL
+VVTQARLWLGTPYRHQASTLGAGCDCLGLVRGVWRAIHGVEPEAPPPYRPDWAEV--G-E
+R----ELLLEAFARWLAPV--PL--SGARPGDVLVFRMAPGAVAKHCAIQSGP-------
+-------------------------------DRMIHAYWGRA-CVESALGRWWRERLVAV
+FRFPSV------------------------
+>YP_002518236.3 Spr-family cell wall-associated hydrolase [Caulobacter vibrioides NA1000]
+--------------MSGGGAQSSPQRGRWPKAGGGTCPGPASSPSVVPAGRHLPRWGEDL
+VIAQTRLWLGTPYRHQASTLGAGCDCLGLIRGVWRGLYGQEPEAPPPYRPDWAEI--G-V
+G----ELLIEAFGRWLVAI--PL--SQAQPGDVLVFRMAPGAAAKHCAIKAAP-------
+-------------------------------DRIIHAYWGRA-CVESALGRWWRERCVAA
+FRFPPFPNKHPTASCRPASFEARSGARTSG
+>WP_081717720.1 peptidase P60 [Hyphomicrobium nitrativorans]
+------------MPSTFADFRTCPATISSPLSAGRGPRRAERQVIVKEQRARYRAHGGDE
+IVVAARRWIGTPYHHQASVVGVGADCLGLIRGVWREIYGEDAETPPGYSRDWGEA--S-G
+K----ETLIEAALRHLVPR--RE--GEPEIGDVLIFRMKPGAIAKHAALRATA-------
+-------------------------------DTMIHAMEHCR-AAEVPFSPWWRRRLAAS
+FAFPGTVRSWPR------------------
+>WP_013947995.1 peptidase [Hyphomicrobium sp. MC1]
+------------------------------------------------MNALTR----DG
+IVVTARRWIGTPYHHQASVCGIGADCLGLVRGVWRDLYGSDAEAPPVYSRDWAET--S-G
+C----EAMLEAAERHLKRV--PI--VEARGGDVVVFRLREGCVAKHAGILTSA-------
+-------------------------------WTMVHAMEGAA-AAEITLTPWWRRRIAGT
+FRFPGLV-----------------------
+>WP_015598115.1 peptidase [Hyphomicrobium denitrificans]
+-----------------------------------------------MQTRPTR----TM
+IVEAARAWIGTPYHHQASRRGIGTDCLGLVRGVWRDVYGSDAEMPPAYSRDWAEA--G-G
+Q----ETMLDAAERHLKRI--SV--SDIKPGDAVIFRLRPGVVAKHAAIVASP-------
+-------------------------------STMIHAMEGAP-VCEVSFSNWWRRRVAGA
+FRFPPVPLSPAGRG----------------
+>WP_013215151.1 peptidase [Hyphomicrobium denitrificans]
+-----------------------------------------------MQARATR----AG
+IVEAARLWIGTPYHHQASVRCIGTDCLGLVRGVWRDVYGLDAEMPPAYSRDWAEA--G-G
+E----ETMLAAAARHLEKI--EA--PELAPGDVVVFRLRAGVVAKHAAIVASA-------
+-------------------------------LTMIHAMEGAS-VCEVSFSHWWRRRVAGA
+FRFPDLNEGC--------------------
+>WP_015929242.1 peptidase [Methylobacterium nodulans]
+--------------------------------------------MTADASDRIR----VR
+VVALARTWLATPYHHQAALKGVGCDCLGLLRGVYAELYGAEPEAPPPYSPSWAED--H-G
+S----ETLREAARRHLEEI--PI--PQAEAGDVLLFRWRNGLPAKHCAILTGP-------
+-------------------------------SRMIHAYDGHS-VLESWIPPAWSRRIAHA
+FRFPEIAR----------------------
+>WP_015930812.1 peptidase [Methylobacterium nodulans]
+--------------------------------------------MTADASDRIR----AR
+VVALARTWLATPYHHQAALKGVGCDCLGLLRGVYAELYGCAPEEPPPYSPSWAED--H-G
+G----ETLREAARRHLDEI--PI--PQAEAGDVLLFRWRDGLPAKHCAILTGQ-------
+-------------------------------SRMIHAYDGHA-VLESWIPPAWSRRIAHA
+FRFPEIAR----------------------
+>WP_015928687.1 peptidase [Methylobacterium nodulans]
+--------------------------------------------MTADASDRTR----AR
+VVALARTWLATPYHHQAALKGVGCDCLGLLRGVYAELYGCAPEAPPPYSASWAED--H-G
+S----ETLREAARRHLEEI--PI--PQAEAGDVLLFRWRDGLPAKHCAILSGP-------
+-------------------------------SRMIHAYDGHA-VLESGIPPAWSRRIAHA
+FRFPEIAR----------------------
+>WP_015932913.1 peptidase [Methylobacterium nodulans]
+--------------------------------------------MTADASDRTR----AR
+VVALARTWLATPYHHQAALKGVGCDCLGLLRGVYAELYGCAPEAPPPYSPSWAED--H-G
+S----ETLREAARRHLEEI--PI--PQAEAGDVLLFRWRDGLPAKHCAILSGP-------
+-------------------------------SRMIHAYDGHA-VLESGIPPAWSRRIAHA
+FRFPEIAR----------------------
+>WP_014890975.1 peptidase [Methylocystis sp. SC2]
+---------------------------------------------------MTR----AD
+IVTAARRWRGTPYAHQASLIHVGCDCLGLVRGVWRDVIGDEPEAAPAYTPDWAEA--L-S
+A----ETLLDAAHRHFRAA--PL--SDFREGDVLLFRFREHLPAKHLGVATST-------
+-------------------------------THMIHAHAGAC-VAEVAIGPHWRKKLVAA
+FAFPNVVD----------------------
+>WP_012109795.1 peptidase [Parvibaculum lavamentivorans]
+--------------------------------------------------MTTR----EE
+IVAAARGWIGTPYRHQASVKGAGTDCLGLVRGVWREIFGTEPEAPPAYTPDWAETPGGAG
+G----ETMAEAAGRHMTAI--AC--GDVEAGDIMLFRMRAHGPAKHVAILSGG-------
+-------------------------------NRMIHAWSGRA-VVETTLGRWWRARAAYA
+YRFPGLEG----------------------
+>WP_013165553.1 peptidase [Starkeya novella]
+------------------------------------------------MGAELR----AR
+IVAEARGWIGTPYLHRASLKGEGADCLGLVRGIWRAVLGTEPQALPPYAPDWAEA--T-H
+E----EQMAEAARRHMREV--PL--SKIEPGDVLLFRWREGFPAKHAAVLVTR-------
+-------------------------------DRMVHAHDGA--VAEVFLAPWWRRRLAYA
+FAFPGA------------------------
+>WP_012169657.1 peptidase [Azorhizobium caulinodans]
+-----------------------------------------------MTGAARR----AA
+IVAEARAWIGTPYHHRASVRGEGTDCLGLVRGVWRAVMGAEPEPLPPYAADWAEA--S-R
+T----ETLIAAAGRHLVPV--QT--AAMQPGDVLLFRFRTHLPAKHCALLSAP-------
+-------------------------------GRMIHAYDGAA-VCEGDFAPWWQRHLAAV
+FAFPGR------------------------
+>WP_012115147.1 peptidase [Xanthobacter autotrophicus]
+-----------------------------------------------MTASLTR----AA
+ILKEARSWIGTPYLHRASLKGQGADCLGLVRGVWRELVGPEPEAMPSYAPDWAEA--G-R
+R----ETLAEAAGRCLVAM--PV--EAAQPGDVLLFRFRAHLPAKHAAILAEG-------
+-------------------------------GRMIHAYDGAH-VCEGYLAPWWRRRLAFA
+FAFPGIE-----------------------
+>WP_012453330.1 peptidase P60 [Methylorubrum populi]
+----------------------------------------------MDDASPLA----GR
+IVTEARAWAGTPYRHQASLKGVGCDCLGLLRGVWRAVLGPEPEAPPPYAASWAEAA-S-G
+D----DPLLSAAQRHLVPITEPLAAYRPRAGDVLLFAFRSHLPAKHCAIATGP-------
+-------------------------------AAMIHAHDGAA-VTEVALTPWWRRHLAHA
+FRFPDPS-----------------------
+>WP_015950366.1 peptidase P60 [Methylorubrum extorquens]
+---------------------------------------------MDDDASPLP----DR
+IVAEARSWAGTPYRHQASLKGVGCDCLGLLRGVWRAVLGPEPEEAPPYAATWAESALD-G
+A----DPLVAAARRHLVPIMGPLNAYQPRAGDVLLFAFRANLPAKHCAIATGP-------
+-------------------------------MAMIHAHAGAA-VTEVALTPWWRRHLARP
+FRFPDSP-----------------------
+>WP_012253043.1 MULTISPECIES: peptidase P60 [Methylobacteriaceae]
+---------------------------------------------MDDDVSTLA----GR
+IVAEARAWAGTPYRHQASLKGVGCDCLGLLRGVWRAVLGPEPEEAPPYAATWAESALD-G
+A----DPLVAAARRHLVPIAGPLNAYQPWAGDVLLFAFRAHLPAKHCAIATGP-------
+-------------------------------AAMIHAHDGAA-VTEVALTPWWRRHLAHA
+FRFPNPP-----------------------
+>WP_015822052.1 peptidase P60 [Methylorubrum extorquens]
+---------------------------------------------MDDDVSPLA----GR
+IVAEARAWAGTPYRHQASLKGVGCDCLGLLRGVWRAVLGPEPEEAPPYAATWAESALD-G
+D----DPLVAAARRHLVPITGPLNAYRPRAGDVLLFAFRAYLPAKHCAIATGP-------
+-------------------------------AAMIHAHAGAA-VTEIALTPWWRRHLAHA
+FRFPDPP-----------------------
+>WP_003606565.1 peptidase P60 [Methylorubrum extorquens]
+---------------------------------------------MDDDVSPLA----GR
+IVAEARAWAGTPYRHQASLKGVGCDCLGLLRGVWRAVLGPEPEEAPPYAATWAESALD-G
+A----DPLVAAARRHLVPITGPLNAYQPRAGDVLLFAFRAHLPAKHCAIATGP-------
+-------------------------------AAMIHAHAGAA-VTEVALTPWWRRHLAHA
+FRFPDPP-----------------------
+>WP_011663351.1 peptidase [Rhodopseudomonas palustris]
+----------------------------------------------MTEHSLSR----AA
+LVAEARSWIGTPYRHQASLKRVGCDCLGLVRGVWRGCIGTEPEQAPPYAPDWAEA--G-G
+M----ETLHDAALRHLKPV--SC--ENFAAGDVLLFRYRDGCVAKHVAIAASP-------
+-------------------------------ERMIHAHDGAA-VCEIAITPWWRRRLVQA
+FSFPGVS-----------------------
+>WP_012563726.1 peptidase [Oligotropha carboxidovorans]
+-----------------------------------------------MTTPLTR----AA
+IVSEARSWIGTRYRHQASCKGVGCDCLGLVRGVWRNCIGAEPELPPPYAPDWAEA--H-G
+E----ETLAQAAARHLVRT--AL--HEIGAGDVLLFRWREGFVAKHVAIASGD-------
+-------------------------------GTMIHAHDGAA-VCEVALSPWWVRRLAYA
+FRFPGVCD----------------------
+>WP_011472286.1 peptidase [Rhodopseudomonas palustris]
+----------------------------------------------MDSPGLTR----GA
+IVAEARSWIGTRYRHQASCKGVGCDCLGLVRGVWRGCLGDEPEQPPAYAPDWAEA--G-G
+E----DTLAAAALRHLTPI--AR--EKFAAGDVLLFRWRDDCVAKHLAIASSA-------
+-------------------------------HAMIHAHDGAA-VCEVAIAPWWRRRLAFA
+FSFPGVM-----------------------
+>WP_013503282.1 peptidase [Rhodopseudomonas palustris]
+-----------------------------------------------MDQPLRR----DT
+IVAEARSWIGTRYRHQASVKGVGCDCLGLVRGVWRNCLGDEPEAPPPYAPDWAEA--G-G
+D----ETLAAAALRHLAPV--PC--DAFDRGDVLLFRWRDGCVAKHAAIASST-------
+-------------------------------TTMIHAHDGAA-VCEVAITPWWRRRLAYA
+FTFPGVADPLR-------------------
+>WP_012495444.1 peptidase [Rhodopseudomonas palustris]
+-----------------------------------------------MNQPIDR----DA
+LVAEARSCIGTSYRHQASVKGVGCDCLGLVRGVWRACLGEEPEAPPPYAPDWAEA--G-G
+D----ETLAAAALRHLAPV--PC--DACDRGDVLLFRWRDGCVAKHAAIASSA-------
+-------------------------------TTMIHAHDGAA-VCEVAITPWWRRRLAYA
+FTFPGVADPLR-------------------
+>WP_011157411.1 peptidase [Rhodopseudomonas palustris]
+-----------------------------------------------MNQPIDR----DA
+LVAEARSWIGTSYRHQASVKGVGCDCLGLVRGVWRACLGEEPEAPPPYAPDWAEA--G-G
+D----ETLAAAALRHLVPV--PC--DAFDKADVLLFRWRDGCVAKHAAIASSA-------
+-------------------------------TTMIHAHDGAA-VCEVAITPWWRRRLAYA
+FTFPGVADPLR-------------------
+>WP_011509938.1 peptidase [Nitrobacter hamburgensis]
+----------------------------------------------MTFPHTTR----AA
+VVAEARAWIGTPYRHQASLKGIGCDCLGLVRGVWRNCIGDEPEAPPPYAPDWAEA--K-G
+D----ETLAAAALRHLIPV--AR--DDLKPGDVLLFRWRDGFVAKHVAIASSE-------
+-------------------------------RTMIHAHDGAA-VCEIALAPWWRRRLAYA
+FRFPGVLA----------------------
+>WP_011314471.1 peptidase [Nitrobacter winogradskyi]
+----------------------------------------------MSCVCSTR----AA
+IVAEARGWIGTPYRHQASLKGVGCDCLGLVRGVWRNCIGDEPETPPPYAPDWAEA--K-G
+D----ETLAAAALRHLVPV--AR--DGFGAGDVLLFRWRDGFVAKHVAIASSE-------
+-------------------------------HAMVHAHDGAA-VCEIAIAPWWRRRLAYA
+FRFPGVSD----------------------
+>WP_011502411.1 peptidase [Rhodopseudomonas palustris]
+-----------------------------------------------MDRVLTR----DA
+LVAEARGWIGTRYRHQASLKGVGCDCLGLVRGVWRSCIGDEPEAPPPYAPDWAEA--R-G
+Q----EALADAALRHLRPI--AR--EAFGAGDVLLFRWTESCVAKHVAIASSA-------
+-------------------------------TTMIHAHDGAA-VCEIAIAPWWRRRLAYA
+FSFPGMVE----------------------
+>WP_011442339.1 peptidase [Rhodopseudomonas palustris]
+-----------------------------------------------MSTILTR----DA
+VVAEARSWIGTRYRHQASVKGVGCDCLGLVRGVWRGCIGDEPEAPPPYAPDWAEA--Q-G
+A----ETLAEAALRHLVPI--AR--EDFRAGDVLLFRWRDGYVAKHVAIASSS-------
+-------------------------------TTMIHAHDGAA-VCEIAIAPWWRRRLAYA
+FGFPGVKD----------------------
+>WP_083835241.1 hypothetical protein [Novosphingobium sp. PP1Y]
+---------------------------------------------------MTG----DE
+LARAAQELVGTRWKLHGRDPRHGLDCVGVL-AVAAASCGQRGPLPNGYSLRARRI--P-G
+L--------DGIARQLSLR--PAG-GSCLPGDVLL--LRPGPCQHHLAIAIGP-------
+-------------------------------DRFVHAHGGLRKVVCGALPEGWA--TLGH
+WR-PNSCD----------------------
+>WP_011415707.1 hypothetical protein [Erythrobacter litoralis]
+-------------------------------------------------MTTPG----EK
+LADAALRLVGTPYRLHGHEPRFGLDCVGLLVASMRAI-GRAISVPDTYRLRNTAI-----
+-----EPLLALAEREDATV--AK--GRAEPGDVLL--VTPGPAQHHILIAADA-------
+-------------------------------THFVHAHASLRRVVSMPGPSPWP--CQAR
+WRLL--------------------------
+>WP_011446770.1 MULTISPECIES: hypothetical protein [Novosphingobium]
+----------------------------------------------------MN----ED
+LAKAALTLVGAPFRLHGRDVSTGLDCIGVVAEAMR-LTGRAPDVPEGYSLR------A-V
+S----LARWIGHARRSGLV------EADRDGDVVL--CMTSPIQPHL-LVTAP-------
+-------------------------------GGFVHAHASLGRVTFLPGAIPWP--VARH
+WRLLSKEC----------------------
+>WP_015460112.1 hypothetical protein [Sphingomonas sp. MM-1]
+----------------------------------------------------MS----VA
+IVARARACIGARFRPQGRSIAEGLDCVGL-----AAIACDVPAPARDYALRGGD-----G
+D----RIAAGLAAAGLIPV--PW--PEALPGDVLL--VEAGPAQAHLLVLTDV-------
+--------------------------------GFVHADAGLRRVVETPGRPPWP--VLGA
+WRGT--------------------------
+>WP_013846187.1 peptidoglycan endopeptidase [Sphingobium chlorophenolicum]
+------------------------------------------------------------
+-MAAARALVGVRFRLHGRVPERGLDCVGLA----ALVLGRA--APLGYGLR------S-G
+D----EGLAAEWLRAAGLR--RV--EAARDGDLAL--VRPGPLQLHVMIVV-P-------
+-------------------------------GGHVHAHAGVGRVVEMPGESPWP--VLGY
+WR-PE-------------------------
+>WP_013039658.1 MULTISPECIES: hypothetical protein [Sphingomonadaceae]
+------------------------------------------------------------
+-MAAARALVGVRFRLHGRLPERGLDCVGLA----ALVLGRA--APEGYGLR------S-G
+D----EGRAADWLRAAGLR--RV--DAAREGDLAL--VRPGPLQLHLMIVV-P-------
+-------------------------------GGHVHAHAGVGRVVEMPGPSPWP--VLGY
+WRAE--------------------------
